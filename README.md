@@ -1,6 +1,6 @@
 # Digital Calculator using ALU
 
-An 8-bit digital calculator built around an Arithmetic Logic Unit (ALU), written in SystemVerilog and simulated on EDA Playground Given two 8-bit operands and a 4-bit opcode, it produces a 16-bit result and a one-hot signal showing which operation is active.
+An 8-bit digital calculator built around an Arithmetic Logic Unit (ALU), written in SystemVerilog and simulated on EDA Playground. Given two 8-bit operands and a 4-bit opcode, it produces a 16-bit result and a one-hot signal showing which operation is active.
 
 ## Features
 
