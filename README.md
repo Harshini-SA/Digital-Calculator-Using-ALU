@@ -1,6 +1,6 @@
 # Digital Calculator using ALU
 
-An 8-bit digital calculator built around an Arithmetic Logic Unit (ALU), written in SystemVerilog and simulated on [EDA Playground](https://www.edaplayground.com/). Given two 8-bit operands and a 4-bit opcode, it produces a 16-bit result and a one-hot signal showing which operation is active.
+An 8-bit digital calculator built around an Arithmetic Logic Unit (ALU), written in SystemVerilog and simulated on EDA Playground Given two 8-bit operands and a 4-bit opcode, it produces a 16-bit result and a one-hot signal showing which operation is active.
 
 ## Features
 
@@ -70,11 +70,6 @@ The testbench applies one test vector per operation and writes a waveform to `du
 3. Tick **Open EPWave after run** and click **Run**.
 4. The console prints `SIMULATION COMPLETED` and the waveform opens in EPWave.
 
-EDA Playground link: _add your link here_
-
-## Waveform
-
-_Add a screenshot of your EPWave output here, e.g. `images/waveform.png`._
 
 ## Possible Improvements
 
